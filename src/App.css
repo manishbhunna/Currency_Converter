@@ -1,0 +1,16 @@
+.container{
+  width: 500px;
+  height: 600px;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(230, 210, 210);
+  border: 1 solid black;
+  text-align: center;
+  align-items: center;
+}
+
+
+.currencylist{
+  width: 100px;
+}
